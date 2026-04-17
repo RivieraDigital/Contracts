@@ -1,4 +1,4 @@
-namespace Vezir.Modules.WebUsers.Contracts.DTOs.Requests;
+namespace Kontrol.Modules.WebUsers.Contracts.DTOs.Requests;
 
 /// <summary>
 /// Customer login request for WebShop.

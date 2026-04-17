@@ -1,4 +1,4 @@
-namespace Vezir.Modules.WebUsers.Contracts.DTOs.Responses;
+namespace Kontrol.Modules.WebUsers.Contracts.DTOs.Responses;
 
 /// <summary>
 /// Customer login/register response for WebShop.

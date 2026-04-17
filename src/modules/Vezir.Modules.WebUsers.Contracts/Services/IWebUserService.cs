@@ -1,8 +1,8 @@
-using Vezir.Modules.WebUsers.Contracts.DTOs.Requests;
-using Vezir.Modules.WebUsers.Contracts.DTOs.Responses;
-using Vezir.Shared.Contracts.Results;
+using global::Kontrol.Modules.WebUsers.Contracts.DTOs.Requests;
+using global::Kontrol.Modules.WebUsers.Contracts.DTOs.Responses;
+using global::Kontrol.Shared.Contracts.Results;
 
-namespace Vezir.Modules.WebUsers.Contracts.Services;
+namespace Kontrol.Modules.WebUsers.Contracts.Services;
 
 /// <summary>
 /// Service interface for managing web users.

@@ -1,4 +1,4 @@
-namespace Vezir.Shared.Contracts.Results;
+namespace Kontrol.Shared.Contracts.Results;
 
 /// <summary>
 /// Represents a paginated result set with metadata.

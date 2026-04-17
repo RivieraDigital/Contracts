@@ -1,4 +1,4 @@
-namespace Vezir.Modules.WebUsers.Contracts.DTOs.Responses;
+namespace Kontrol.Modules.WebUsers.Contracts.DTOs.Responses;
 
 /// <summary>
 /// Web user detail DTO (for single user view with full details).

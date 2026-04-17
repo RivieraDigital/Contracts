@@ -1,4 +1,4 @@
-namespace Vezir.Modules.WebUsers.Contracts.DTOs.Responses;
+namespace Kontrol.Modules.WebUsers.Contracts.DTOs.Responses;
 
 /// <summary>
 /// Paginated list response for web users.
