@@ -1,8 +1,8 @@
-using global::Kontrol.Modules.WebUsers.Contracts.DTOs.Requests;
-using global::Kontrol.Modules.WebUsers.Contracts.DTOs.Responses;
-using global::Kontrol.Shared.Contracts.Results;
+using global::Riviera.Modules.WebUsers.Contracts.DTOs.Requests;
+using global::Riviera.Modules.WebUsers.Contracts.DTOs.Responses;
+using global::Riviera.Shared.Contracts.Results;
 
-namespace Kontrol.Modules.WebUsers.Contracts.Services;
+namespace Riviera.Modules.WebUsers.Contracts.Services;
 
 /// <summary>
 /// Service interface for managing web users.

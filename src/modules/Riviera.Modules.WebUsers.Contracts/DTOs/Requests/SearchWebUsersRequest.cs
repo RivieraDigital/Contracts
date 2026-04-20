@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Kontrol.Modules.WebUsers.Contracts.DTOs.Requests;
+namespace Riviera.Modules.WebUsers.Contracts.DTOs.Requests;
 
 /// <summary>
 /// Request model for searching/filtering web users.

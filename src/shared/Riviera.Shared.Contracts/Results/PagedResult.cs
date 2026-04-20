@@ -1,4 +1,4 @@
-namespace Kontrol.Shared.Contracts.Results;
+namespace Riviera.Shared.Contracts.Results;
 
 /// <summary>
 /// Represents a paginated result set with metadata.

@@ -1,4 +1,4 @@
-namespace Kontrol.Modules.WebUsers.Contracts.DTOs.Requests;
+namespace Riviera.Modules.WebUsers.Contracts.DTOs.Requests;
 
 /// <summary>
 /// Request model for updating an existing web user.

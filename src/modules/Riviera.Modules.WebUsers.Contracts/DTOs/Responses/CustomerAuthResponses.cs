@@ -1,4 +1,4 @@
-namespace Kontrol.Modules.WebUsers.Contracts.DTOs.Responses;
+namespace Riviera.Modules.WebUsers.Contracts.DTOs.Responses;
 
 /// <summary>
 /// Customer login/register response for WebShop.

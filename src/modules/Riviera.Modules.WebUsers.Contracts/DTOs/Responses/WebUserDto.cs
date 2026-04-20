@@ -1,4 +1,4 @@
-namespace Kontrol.Modules.WebUsers.Contracts.DTOs.Responses;
+namespace Riviera.Modules.WebUsers.Contracts.DTOs.Responses;
 
 /// <summary>
 /// Web user list item DTO (for list views).

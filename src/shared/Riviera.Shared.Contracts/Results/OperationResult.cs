@@ -1,4 +1,4 @@
-namespace Kontrol.Shared.Contracts.Results;
+namespace Riviera.Shared.Contracts.Results;
 
 /// <summary>
 /// Represents the result of an operation without return data.
