@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/modules/">
+    <Project Path="src/modules/Riviera.Modules.WebUsers.Contracts/Riviera.Modules.WebUsers.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/shared/">
+    <Project Path="src/shared/Riviera.Shared.Contracts/Riviera.Shared.Contracts.csproj" />
+  </Folder>
+</Solution>

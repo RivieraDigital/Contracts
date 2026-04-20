@@ -1,9 +1,0 @@
-<Solution>
-  <Folder Name="/src/" />
-  <Folder Name="/src/modules/">
-    <Project Path="src/modules/Vezir.Modules.WebUsers.Contracts/Vezir.Modules.WebUsers.Contracts.csproj" />
-  </Folder>
-  <Folder Name="/src/shared/">
-    <Project Path="src/shared/Vezir.Shared.Contracts/Vezir.Shared.Contracts.csproj" />
-  </Folder>
-</Solution>
